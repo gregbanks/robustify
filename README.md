@@ -1,4 +1,4 @@
-robusitfy
+robustify
 =========
 
 Robustification for flakey .pys
